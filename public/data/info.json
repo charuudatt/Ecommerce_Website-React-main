@@ -1,0 +1,64 @@
+{
+   "users":
+           [
+            {
+            "id":1,
+            "name":"Bike racing",
+            "price":"$200",
+            "image": "./data/Images/Bikeracing.jpg",
+            "status":"hot"
+           },
+           {
+                "id":2,
+                "name":"Car racing",
+                "price":"$240",
+                "image": "./data/Images/lamborghini.jpg",
+                "status":"hot"
+               },
+               {
+                "id":3,
+                "name":"One Man Army",
+                "price":"$250",
+                "image": "./data/Images/Major.jpg",
+                "status":"hot"
+               },
+               {
+                "id":4,
+                "name":"MotorCrossing",
+                "price":"$250",
+                "image": "./data/Images/motocross.jpg",
+                "status":"hot"
+               },
+               {
+                "id":5,
+                "name":"manwithBlacksuite",
+                "price":"$100",
+                "image": "./data/Images/manwithsuite.jpg",
+                "status":"hot"
+               },
+               {
+                "id":6,
+                "name":"menwithsuite",
+                "price":"$100",
+                "image": "./data/Images/menwithsuite2.jpg",
+                "status":"hot"
+               },
+               {
+                "id":7,
+                "name":"T-shirt",
+                "price":"$100",
+                "image": "./data/Images/t-shirt.jpg",
+                "status":"hot"
+               },
+               {
+                "id":7,
+                "name":"Watch",
+                "price":"$100",
+                "image": "./data/Images/Watch.jpg",
+                "status":"hot"
+               }
+
+        ]
+    
+    
+}
